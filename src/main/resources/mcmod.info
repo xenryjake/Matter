@@ -1,0 +1,16 @@
+[
+{
+  "modid": "matter",
+  "name": "Matter",
+  "description": "Adding new forms of Matter to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Xenry"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

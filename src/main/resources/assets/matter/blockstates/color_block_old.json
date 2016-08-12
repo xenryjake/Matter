@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "inventory": { "model":"matter:color_block_inventory" },
+    "color=white": { "model":"matter:color_block_white" }
+  }
+}

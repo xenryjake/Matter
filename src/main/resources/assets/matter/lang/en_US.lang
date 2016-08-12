@@ -1,0 +1,36 @@
+item.ruby.name=Ruby
+item.ruby_sword.name=Ruby Sword
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_axe.name=Ruby Axe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+item.emerald_sword.name=Emerald Sword
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.emerald_axe.name=Emerald Axe
+item.emerald_shovel.name=Emerald Shovel
+item.emerald_hoe.name=Emerald Hoe
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots
+item.iron_nugget.name=Iron Nugget
+item.carbon_bit.name=Carbon Bit
+item.carbon_chunk.name=Carbon Chunk
+item.diamond_shard.name=Diamond Shard
+
+tile.ruby_block.name=Block of Ruby
+tile.ruby_ore.name=Ruby Ore
+tile.carbon_block.name=Carbon Block
+tile.compressed_cobblestone.name=Compressed Cobblestone
+tile.compressed_dirt.name=Compressed Dirt
+tile.compressed_gravel.name=Compressed Gravel
+tile.color_block.name=Color Block
+
+tile.color_block.white.name=White Color Block
+
+key.categories.matter=Matter Mod
+key.matter.ping=Ping
